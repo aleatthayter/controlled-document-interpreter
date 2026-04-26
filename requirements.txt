@@ -1,4 +1,5 @@
 anthropic
+mcp
 langchain-anthropic
 langchain-community
 langchain-huggingface
