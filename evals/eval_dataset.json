@@ -1,0 +1,74 @@
+[
+  {
+    "question": "What steps are required to isolate a piece of equipment before maintenance?",
+    "expected_behaviour": "answer",
+    "expected_source": "isolation-procedure.txt",
+    "notes": "Should list the six isolation steps from section 3"
+  },
+  {
+    "question": "Who is permitted to perform electrical isolation work?",
+    "expected_behaviour": "answer",
+    "expected_source": "isolation-procedure.txt",
+    "notes": "A licensed electrician only, per section 5.1"
+  },
+  {
+    "question": "Can the standby person enter the confined space to assist an injured worker?",
+    "expected_behaviour": "answer",
+    "expected_source": "confined-space-entry.txt",
+    "notes": "No. Section 5.3 states the standby person must not enter under any circumstances"
+  },
+  {
+    "question": "What training certificate is required to enter a confined space?",
+    "expected_behaviour": "answer",
+    "expected_source": "confined-space-entry.txt",
+    "notes": "A current confined space entry certificate, per section 7.1"
+  },
+  {
+    "question": "How long after hot work is completed must the fire watch continue?",
+    "expected_behaviour": "answer",
+    "expected_source": "hot-work-procedure.txt",
+    "notes": "Minimum 30 minutes, per section 5.2"
+  },
+  {
+    "question": "Can a Hot Work Permit be issued for welding inside a confined space without any other permits?",
+    "expected_behaviour": "answer",
+    "expected_source": "hot-work-procedure.txt",
+    "notes": "No. Section 3.4 requires a simultaneous Confined Space Entry Permit"
+  },
+  {
+    "question": "What is the maximum allowable turbidity for water discharged from site?",
+    "expected_behaviour": "answer",
+    "expected_source": "environmental-permit-conditions.txt",
+    "notes": "50 NTU at the point of discharge, per section 1.2"
+  },
+  {
+    "question": "Can blasting occur on a Sunday?",
+    "expected_behaviour": "answer",
+    "expected_source": "environmental-permit-conditions.txt",
+    "notes": "No. Section 3.3 prohibits blasting on Sundays and public holidays"
+  },
+  {
+    "question": "How often must haul roads be watered during active operations?",
+    "expected_behaviour": "answer",
+    "expected_source": "environmental-permit-conditions.txt",
+    "notes": "At intervals not exceeding four hours, per section 2.1"
+  },
+  {
+    "question": "What are the nighttime noise limits at the nearest sensitive receptor?",
+    "expected_behaviour": "answer",
+    "expected_source": "environmental-permit-conditions.txt",
+    "notes": "35 dB(A) LAeq between 10:00pm and 7:00am, per section 3.2"
+  },
+  {
+    "question": "What is the approved contractor rate for scaffolding labour?",
+    "expected_behaviour": "refuse",
+    "expected_source": null,
+    "notes": "Not covered in any loaded document. Agent must refuse rather than guess"
+  },
+  {
+    "question": "What is the process for requesting annual leave?",
+    "expected_behaviour": "refuse",
+    "expected_source": null,
+    "notes": "Not covered in any loaded document. Agent must refuse"
+  }
+]

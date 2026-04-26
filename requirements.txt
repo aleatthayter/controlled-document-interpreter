@@ -1,0 +1,12 @@
+anthropic
+langchain-anthropic
+langchain-community
+langchain-huggingface
+langchain-text-splitters
+langchain
+chromadb
+sentence-transformers
+langsmith
+pandas
+openpyxl
+pydantic

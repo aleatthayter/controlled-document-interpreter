@@ -1,0 +1,34 @@
+WIRRA MINE SITE
+CONTROLLED DOCUMENT: ENVIRONMENTAL PERMIT CONDITIONS SUMMARY
+Document Number: WMS-ENV-003
+Version: 5.0
+Approved: Environmental Manager
+Review Date: January 2027
+
+NOTE: This is a summary of key conditions from the Wirra Mine Site Environmental Licence, Licence Number WA-ENV-00412. The full licence document is the authoritative reference.
+
+1. WATER MANAGEMENT
+1.1 Discharge of site water to any natural watercourse is prohibited without prior written approval from the Department of Environment.
+1.2 Turbidity of any water discharged from the site must not exceed 50 NTU at the point of discharge.
+1.3 A monthly water balance report must be submitted to the Department of Environment by the 15th of each month.
+1.4 All water storage dams must be inspected weekly. Inspection records must be retained for five years.
+
+2. DUST MANAGEMENT
+2.1 Haul roads must be watered at intervals not exceeding four hours during active operations.
+2.2 Wind erosion controls such as revegetation or stabilisation must be applied to all inactive disturbed areas within 60 days of last disturbance.
+2.3 Dustfall monitoring must be conducted at four perimeter locations in accordance with the approved Dust Management Plan.
+
+3. NOISE
+3.1 Operational noise at the nearest sensitive receptor must not exceed 45 dB(A) LAeq between 7:00am and 10:00pm.
+3.2 Operational noise must not exceed 35 dB(A) LAeq between 10:00pm and 7:00am.
+3.3 Blasting must not occur outside the hours of 9:00am to 5:00pm Monday to Saturday. Blasting is prohibited on Sundays and public holidays.
+
+4. WASTE
+4.1 Hydrocarbon waste including oils and fuels must be stored in bunded areas with capacity of 110 percent of the largest container.
+4.2 Hazardous waste must not be disposed of on site and must be transported by a licensed waste contractor.
+4.3 A waste register must be maintained and made available to the regulator upon request.
+
+5. REPORTING AND INCIDENTS
+5.1 Any environmental incident must be reported to the Department of Environment within 24 hours of becoming aware of the incident.
+5.2 An annual Environmental Performance Report must be submitted to the Department of Environment by 31 March each year.
+5.3 Licence conditions must be reviewed against performance quarterly by the Environmental Manager.

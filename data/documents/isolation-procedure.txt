@@ -1,0 +1,48 @@
+WIRRA MINE SITE
+CONTROLLED DOCUMENT: ISOLATION PROCEDURE
+Document Number: WMS-HSE-004
+Version: 3.2
+Approved: General Manager Operations
+Review Date: March 2027
+
+1. PURPOSE
+This procedure defines the requirements for isolating energy sources before maintenance or inspection work commences on plant and equipment at Wirra Mine Site.
+
+2. SCOPE
+Applies to all personnel performing or supervising work on electrical, mechanical, hydraulic, pneumatic, chemical, or thermal energy sources.
+
+3. ISOLATION STEPS
+3.1 Identify all energy sources associated with the equipment.
+3.2 Notify the Control Room Supervisor before commencing isolation.
+3.3 Isolate each energy source at its primary isolation point.
+3.4 Apply a personal danger tag and lock to each isolation point.
+3.5 Test for zero energy by attempting to start the equipment and testing for voltage at terminals.
+3.6 Record the isolation in the Isolation Register.
+
+4. LOCK AND TAG REQUIREMENTS
+4.1 Each worker must apply their own personal danger tag and lock.
+4.2 Danger tags must include the worker name, date, and contact number.
+4.3 Tags and locks must not be removed by anyone other than the person who applied them.
+4.4 In the event of a shift handover, isolation must be formally transferred to the incoming worker.
+
+5. ELECTRICAL ISOLATION
+5.1 Electrical isolation must be performed by a licensed electrician.
+5.2 Isolation points include main circuit breakers, motor starters, and VSD panels.
+5.3 After isolation, test with an approved voltage tester at the work point.
+5.4 For high voltage equipment above 1000V, a Permit to Work is required in addition to isolation.
+
+6. MECHANICAL ISOLATION
+6.1 Mechanical isolation includes locking out hydraulic and pneumatic systems.
+6.2 Residual pressure must be bled to zero before work commences.
+6.3 Gravity-loaded equipment such as conveyors and bins must be blocked or pinned.
+6.4 Stored energy in springs, counterweights, and capacitors must be dissipated.
+
+7. REMOVAL OF ISOLATION
+7.1 Confirm all personnel are clear of the work area before removing isolation.
+7.2 Remove all tools and foreign materials from the equipment.
+7.3 Remove tags and locks in reverse order of application.
+7.4 Notify the Control Room Supervisor that isolation has been removed.
+7.5 Record removal in the Isolation Register.
+
+8. EMERGENCY OVERRIDE
+Emergency override of an isolation is only permitted by the Site Manager with written authorisation and must be recorded in the Isolation Register immediately.

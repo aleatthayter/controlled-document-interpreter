@@ -1,0 +1,35 @@
+WIRRA MINE SITE
+CONTROLLED DOCUMENT: HOT WORK PERMIT PROCEDURE
+Document Number: WMS-HSE-019
+Version: 1.4
+Approved: General Manager Operations
+Review Date: November 2026
+
+1. PURPOSE
+This procedure governs the issue, use, and closure of Hot Work Permits for any work that produces sparks, flames, or heat sufficient to ignite flammable materials at Wirra Mine Site.
+
+2. WHAT CONSTITUTES HOT WORK
+Hot work includes but is not limited to welding, cutting, and grinding, use of open flames or heat guns, and any work creating sparks within 10 metres of a flammable or combustible material.
+
+3. PERMIT REQUIREMENTS
+3.1 A Hot Work Permit must be issued before any hot work commences.
+3.2 Hot Work Permits are issued by the Site Safety Officer or delegate.
+3.3 Permits are valid for a single shift and must be renewed for work continuing into the next shift.
+3.4 A permit cannot be issued for work within a confined space without a simultaneous Confined Space Entry Permit.
+
+4. PRE-WORK REQUIREMENTS
+4.1 Remove or shield all flammable materials within 10 metres of the work area.
+4.2 Test the atmosphere for flammable gases using a calibrated gas detector.
+4.3 Ensure a fire extinguisher of minimum 9kg dry powder is within 5 metres of the work area.
+4.4 Designate a fire watch person who is not engaged in the hot work itself.
+
+5. FIRE WATCH REQUIREMENTS
+5.1 A fire watch person must monitor the work area during all hot work.
+5.2 The fire watch continues for a minimum of 30 minutes after hot work is completed.
+5.3 The fire watch person must have access to a fire extinguisher and be trained in its use.
+5.4 If a fire is detected, the fire watch person must raise the alarm and attempt suppression only if safe to do so.
+
+6. PERMIT CLOSURE
+6.1 The fire watch person must sign the permit closure after completing the 30-minute post-work watch.
+6.2 Closed permits must be returned to the Site Safety Officer and retained for 12 months.
+6.3 Any fire incident or near-miss during hot work must be reported on the incident management system within 24 hours.

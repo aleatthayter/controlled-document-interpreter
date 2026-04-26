@@ -1,0 +1,40 @@
+WIRRA MINE SITE
+CONTROLLED DOCUMENT: CONFINED SPACE ENTRY PROCEDURE
+Document Number: WMS-HSE-011
+Version: 2.1
+Approved: General Manager Operations
+Review Date: June 2027
+
+1. PURPOSE
+This procedure establishes the requirements for safe entry into confined spaces at Wirra Mine Site, in accordance with the Work Health and Safety Regulations.
+
+2. DEFINITION OF CONFINED SPACE
+A confined space is an enclosed or partially enclosed space that is not designed or intended primarily for human occupancy, has restricted means of entry or exit, is at normal atmospheric pressure when occupied, and has the potential to contain a hazardous atmosphere or insufficient oxygen.
+
+3. PERMIT REQUIREMENTS
+3.1 A Confined Space Entry Permit must be issued before any person enters a confined space.
+3.2 The permit is valid for a maximum of 12 hours and must be reissued for work continuing beyond that period.
+3.3 The permit must be signed by the responsible person, the entry supervisor, and the standby person.
+3.4 Permits must be stored at the site office for a minimum of 12 months.
+
+4. ATMOSPHERIC TESTING
+4.1 Atmospheric testing must be conducted before entry and continuously during occupation.
+4.2 Acceptable conditions are: oxygen between 19.5 and 23.5 percent, flammable gas below 5 percent LEL, and no toxic gases above exposure limits.
+4.3 Testing must be performed by a competent person using a calibrated four-gas monitor.
+4.4 If atmospheric conditions fall outside acceptable limits, all workers must immediately evacuate.
+
+5. STANDBY PERSON REQUIREMENTS
+5.1 A standby person must be stationed outside the confined space at all times during entry.
+5.2 The standby person must maintain continuous communication with workers inside.
+5.3 The standby person must not enter the confined space under any circumstances.
+5.4 The standby person must initiate emergency response if communication is lost or if a worker requires assistance.
+
+6. RESCUE EQUIPMENT
+6.1 Retrieval lines and harnesses must be worn by all workers in permit-required confined spaces.
+6.2 A self-contained breathing apparatus set must be available at the entry point.
+6.3 The standby person must be trained in emergency retrieval procedures.
+
+7. TRAINING REQUIREMENTS
+7.1 All workers entering confined spaces must hold a current confined space entry certificate.
+7.2 Entry supervisors must hold a confined space supervisor certificate.
+7.3 Certificates must be renewed every three years.
