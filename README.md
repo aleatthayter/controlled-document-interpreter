@@ -1,8 +1,23 @@
 # Controlled Document Interpreter
 
-An AI agent that answers plain-language questions from approved controlled documents — maintenance procedures, safety protocols, and environmental permit conditions — grounded strictly in the source documents, with evaluation and tracing built in.
+An AI agent that answers plain-language questions from approved controlled documents — maintenance procedures, safety protocols, and permit conditions — grounded strictly in the source text, with no inference beyond what the documents say.
 
-Built with Python, LangChain, Claude (Anthropic), ChromaDB, LangSmith, Pydantic, and MCP.
+## The Problem
+
+Mining and energy sites accumulate thousands of pages of controlled documents. A field worker preparing for a confined space entry needs the exact permit conditions, quickly. Navigating a document management system under time pressure is slow and error-prone. This agent makes those documents queryable in natural language while preserving the strict source-grounding that safety-critical information requires.
+
+## How It Works
+
+1. **Indexes** documents from `data/documents/` into a local ChromaDB vector store on first run
+2. **Retrieves** the most relevant sections using semantic search when a question is asked
+3. **Answers** using only the retrieved text — the model cites the source document and section
+4. **Refuses** if the answer is not in the documents, directing the worker to a supervisor
+
+The agent does not improvise. If the information is not in the indexed documents, it says so.
+
+## Tech Stack
+
+Python · Claude (Anthropic) · LangChain · ChromaDB · LangSmith · Pydantic · MCP
 
 ## Setup
 
@@ -11,8 +26,6 @@ python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 ```
-
-Set environment variables:
 
 ```bash
 export ANTHROPIC_API_KEY=your-key
@@ -31,9 +44,9 @@ export LANGCHAIN_PROJECT=controlled-document-interpreter
 python main.py
 ```
 
-On first run, documents in `data/documents/` are indexed into a local ChromaDB vector store. Subsequent runs load the existing index.
+Documents in `data/documents/` are indexed on first run. Subsequent runs load the existing index.
 
-### Run evaluation suite
+### Evaluation suite
 
 ```bash
 python evaluate.py
@@ -43,9 +56,9 @@ Runs 12 test cases covering answer accuracy, faithfulness, retrieval relevance, 
 
 ### MCP server (Claude Desktop)
 
-The document search is also exposed as an MCP server, allowing any MCP-compatible client — including Claude Desktop — to query the controlled documents directly.
+The document search is also exposed as an MCP server, allowing Claude Desktop to query the controlled documents directly from the chat interface.
 
-Run the index first (`python main.py`, then exit) so `chroma_db/` exists, then add this to your Claude Desktop config (`~/Library/Application Support/Claude/claude_desktop_config.json`):
+Run the index first (`python main.py`, then exit), then add this to your Claude Desktop config (`~/Library/Application Support/Claude/claude_desktop_config.json`):
 
 ```json
 {
@@ -59,13 +72,11 @@ Run the index first (`python main.py`, then exit) so `chroma_db/` exists, then a
 }
 ```
 
-Restart Claude Desktop. You can then ask Claude questions about Wirra Mine Site procedures directly in the chat interface and it will call the MCP tool to retrieve the relevant document sections.
+## Adding Your Own Documents
 
-## Adding your own documents
+Place `.txt` files in `data/documents/` and delete `chroma_db/` to force re-indexing.
 
-Place `.txt` files in `data/documents/`. Delete the `chroma_db/` directory to force re-indexing.
-
-## Project structure
+## Project Structure
 
 ```
 main.py              # interactive query CLI
